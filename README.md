@@ -1,7 +1,7 @@
 arch-battery
 ============
 
-##### utility for battery status under Arch Linux
+##### battery status utility
 
 author: Andrei Duma (andrei.duma.dorian@gmail.com) (github.com/AndreiDuma)
 

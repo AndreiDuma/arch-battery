@@ -16,4 +16,4 @@ or
 
     battery {-t, --time}        # for getting time left to exhaustion or to complete charging
 
-##### note: tool developed for Fujitsu Esprimo Mobile v6555. May work on other devices as well.
+##### note: tool developed for Fujitsu Esprimo Mobile v6555 under Arch Linux. May work on other systems as well.
